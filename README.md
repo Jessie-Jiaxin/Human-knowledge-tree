@@ -1,13 +1,13 @@
-# Design Human-knowledge-tree in cyber context #
+# Designing a Human-knowledge-tree in the cyber context #
 
-Design Human-knowledge-tree in cyber context
-I am an MA Graphic Design Student,this repository is for my Graduation Design Project.I want to build a human knowledge tree in a cyber context ,which aim to provide self-learner a more holistic view to human knowledge.
+I am designing a Human-knowledge-tree in a cyber context
+I am an MA Graphic Design Student,and this repository is for my Graduation Design Project.I want to build a human knowledge tree in a cyber context ,which is in order to provide self-learner a more holistic view to human knowledge.
 
-Human knowledge Category is vast and fun, people deserve to be provided a opportunity to explore more in it for digging self-potential.
+Human knowledge Category is vast and fun, and people deserve to be provided a opportunity to explore more in it to explore self-potential.
 
-This design can be used as a central platform to provide people with a knowledge structure to categorize high-quality open source learning sites. Self-learners can browse this knowledge structure to determine accurately the subject they want to know, and get the corresponding self-study website link recommendation. Meanwhile everyone has the right to publish personal recommendation websites on the platform.
+This design can be used as a central platform to provide people with a knowledge structure to categorize high-quality open source learning sites. Self-learners can browse this knowledge structure to determine accurately the subject they want to know, and obtain the corresponding self-study website link recommendation. Meanwhile everyone has the right to publish personal recommendation websites on the platform.
 
-Be together, we are achieving global equality education!
+Being together we are achieving global equality education!
 
 #在网络语境中设计人类知识树# （This is the manifesto in Chinese）
 
